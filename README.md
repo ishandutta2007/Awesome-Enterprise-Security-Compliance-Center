@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Enterprise-Security-Compliance-Center" alt="License" /></a>
@@ -73,7 +73,7 @@ Historically characterized as **moderately fragmented** by niche point tools acr
 
 Community-maintained, auditable, and self-hosted tools provide full data sovereignty, zero licensing overhead, and deep custom extensibility across cloud and container topologies.
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---------|------------|-------------|
 | **[Trivy](https://github.com/aquasecurity/trivy)** | [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) | 🔍 The most widely adopted open-source vulnerability and misconfiguration scanner for containers, Kubernetes, code, and cloud. Scans vulnerabilities, SBOM, secrets, and IaC. |
 | **[Prowler](https://github.com/prowler-cloud/prowler)** | [![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | 🐾 The leading open-source CSPM scanner for multi-cloud environments (AWS, Azure, GCP, Kubernetes, M365). 500+ checks mapped to CIS, NIST, PCI-DSS, GDPR, HIPAA, and SOC 2. |
