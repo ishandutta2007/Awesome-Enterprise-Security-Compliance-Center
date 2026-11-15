@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Security-Compliance-Center
 
-# Top Enterprise Security & Compliance Center Ecosystem
+## Top Enterprise Security & Compliance Center Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on CSPM, CNAPP, Runtime Protection & Self-Hosted Security Dashboards*  
